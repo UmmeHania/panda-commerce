@@ -1,0 +1,23 @@
+.background{
+    background-color: #fceae8;
+}
+.watch-bg{
+   background-color:  #ffa500;
+}
+.bag-bg{
+    background-color:#da70d6 ;
+}
+.shoes-bg{
+    background-color: #0000ff;
+}
+.categories img{
+    width: 100px;
+}
+.btn-buy-now{
+     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+     padding: 9px 25px;
+     border-radius: 8px;
+     color: white;
+     border: none;
+    
+}
